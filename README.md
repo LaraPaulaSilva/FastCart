@@ -1,7 +1,4 @@
 # FastCart
-Mini e-commerce desenvolvido com HTML, CSS e JavaScript. Projeto focado em habilidades de front-end: layout, interações e usabilidade
-
-# FastCart
 
 FastCart é um projeto de mini e-commerce desenvolvido com HTML, CSS e JavaScript.  
 O objetivo é simular uma loja virtual simples, focando nas habilidades essenciais de front-end: criação de layouts, interações dinâmicas e experiência do usuário.
