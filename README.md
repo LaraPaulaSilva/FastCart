@@ -21,7 +21,3 @@ O objetivo é simular uma loja virtual simples, focando nas habilidades essencia
 
 Em desenvolvimento.
 
-## Como executar o projeto
-
-1. Clone o repositório:
-   https://github.com/LaraPaulaSilva/FastCart.git
